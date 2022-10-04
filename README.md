@@ -46,6 +46,8 @@
 
 * [簡易 ffmpeg 批次檔](https://github.com/kevin823lin/widget/tree/master/ffmpeg)
 
+* [執行指令並定時更新 DDNS](https://github.com/kevin823lin/widget/tree/master/mc/Server%20and%20DDNS)
+
 ### 閱讀他人專案並練習改寫
 
 * [台灣Pay產生器API](https://github.com/kevin823lin/twpay)
