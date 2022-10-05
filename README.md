@@ -4,11 +4,11 @@
 
 * [人工智慧](https://github.com/kevin823lin/ai109b/blob/main/%E7%AD%86%E8%A8%98/README.md)
 
-* [Linux系統自動化運維](https://github.com/kevin823lin/linux109b/blob/main/README.md)
+* [Linux 系統自動化運維](https://github.com/kevin823lin/linux109b/blob/main/README.md)
 
 ## 專題
 
-* 無人機VR模擬訓練軟體
+* 無人機 VR 模擬訓練軟體
 
   * [專題海報](https://drive.google.com/file/d/1ORZ6Vv_QkUEo-Q3f6-9-PeWtp7COa-w4)
   
@@ -50,7 +50,7 @@
 
 ### 閱讀他人專案並練習改寫
 
-* [台灣Pay產生器API](https://github.com/kevin823lin/twpay)
+* [台灣 Pay 產生器 API](https://github.com/kevin823lin/twpay)
 
 * [ytDownloader](https://github.com/kevin823lin/ytDownloader)
 
