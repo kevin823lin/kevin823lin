@@ -30,7 +30,7 @@
 
   * [LINE Bot 版](https://github.com/se109a-141728/se109a/tree/master/%E6%8F%9B%E5%8C%AF%E8%A8%88%E7%AE%97)
 
-* [查看匯率 App](https://github.com/kevin823lin/RatesViewer)
+* [查看匯率 iOS App](https://github.com/kevin823lin/RatesViewer)
 
 * [第一個自己寫的網頁](https://github.com/kevin823lin/wd107b/blob/master/exercise/05-final/README.md)
 
