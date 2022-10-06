@@ -32,7 +32,7 @@
 
 * [查看匯率 iOS App](https://github.com/kevin823lin/RatesViewer)
 
-* [第一個自己寫的網頁](https://github.com/kevin823lin/wd107b/blob/master/exercise/05-final/README.md)
+* [網頁設計](https://github.com/kevin823lin/wd107b/blob/master/exercise/05-final/README.md)
 
 ### 課外專案
 
