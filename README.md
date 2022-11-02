@@ -48,6 +48,8 @@
 
 * [執行指令並定時更新 DDNS](https://github.com/kevin823lin/widget/tree/master/mc/Server%20and%20DDNS)
 
+* [Minecraft 資料包](https://github.com/kevin823lin/widget/tree/master/mc/datapacks)
+
 ### 閱讀他人專案並練習改寫
 
 * [台灣 Pay 產生器 API](https://github.com/kevin823lin/twpay)
