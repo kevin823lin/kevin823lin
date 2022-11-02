@@ -55,3 +55,5 @@
 * [ytDownloader](https://github.com/kevin823lin/ytDownloader)
 
 * [股票交易計算器](https://github.com/kevin823lin/profit-and-loss-calculator)
+
+* [videospeed](https://github.com/kevin823lin/videospeed)
